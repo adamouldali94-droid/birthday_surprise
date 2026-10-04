@@ -1,16 +1,4 @@
-const startPage = document.getElementById("startPage");
-const questionPage = document.getElementById("questionPage");
-const countdownPage = document.getElementById("countdownPage");
-const mainPage = document.getElementById("mainPage");
 
-const startBtn = document.getElementById("startBtn");
-const yesBtn = document.getElementById("yesBtn");
-const noBtn = document.getElementById("noBtn");
-
-const countNumber = document.getElementById("countNumber");
-
-const letterBtn = document.getElementById("letterBtn");
-const letter = document.getElementById("letter");
 
 // الصفحة الأولى
 startBtn.onclick = () => {
